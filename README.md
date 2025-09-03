@@ -41,9 +41,3 @@ pip install deep-translator
     - **若要翻譯 SNBT**：在終端機中執行 `python 翻譯snbt.py`。腳本完成後會生成 `zh_tw.snbt`。
 
 4.  **取用翻譯檔案**：將新生成的 `zh_tw.json` 和 `zh_tw.snbt` 放入模組包對應的語言資料夾中即可。
-
----
-
-### 關於 `game.py`
-
-專案中的 `game.py` 檔案是一個使用 Pygame 函式庫開發的太空射擊遊戲，它與本專案的翻譯功能無關，可以安全地忽略或刪除。
